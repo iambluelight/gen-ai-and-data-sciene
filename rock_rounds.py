@@ -33,7 +33,6 @@ while rounds < 5:
         print("Computer wins!")
 
     rounds = rounds + 1
-    print()
 
 else:
     print("Game over! You played 5 rounds.")

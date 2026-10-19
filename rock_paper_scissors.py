@@ -28,5 +28,3 @@ while True:
         print("You win!")
     else:
         print("Computer wins!")
-
-    print()
